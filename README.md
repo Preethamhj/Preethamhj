@@ -1,5 +1,5 @@
 <div align="center">
-![Uploading image.png…]()
+<img width="1024" height="957" alt="image" src="https://github.com/user-attachments/assets/0e8f57c0-ddf7-4ac5-b8b7-f707950aeebb" />
 
 # 👋 Hi, I'm Preetham HJ
 
