@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/5bca67e3-95d0-4635-b525-d171df36ebfd" /><div align="center">
 
 # 👋 Hi, I'm Preetham HJ
 
@@ -25,13 +25,7 @@ I believe security is not a feature — it is architecture.
 
 ---
 
-# 🛡️ My Core Direction
 
-<div align="center">
-  <img src="./security-roadmap.png" alt="Security Focus Roadmap" width="100%" />
-</div>
-
----
 
 # 🧭 Horizontal Foundation (What I Explored)
 
@@ -120,14 +114,6 @@ const securityEngineer = {
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=preethamhj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethamhj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
----
 
 # 🌐 Connect With Me
 
