@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/5bca67e3-95d0-4635-b525-d171df36ebfd" /><div align="center">
+<div align="center">
 
 # 👋 Hi, I'm Preetham HJ
 
@@ -14,22 +14,28 @@ Breaking systems • Securing architectures • Designing network-level infrastr
 
 I am a Computer Science student transitioning from broad full-stack development into deep **Network & Security Engineering**.
 
-My focus is shifting from building applications to understanding:
+My focus is moving from building applications to understanding:
 
-- How packets move across networks
-- How systems fail under attack
-- How infrastructure should be architected securely
-- How offensive knowledge strengthens defensive design
+- How packets move across networks  
+- How systems break under attack  
+- How infrastructure must be architected securely  
+- How offensive knowledge strengthens defensive design  
 
 I believe security is not a feature — it is architecture.
 
 ---
 
+# 🛡️ Core Direction
 
+<div align="center">
+  <img src="./security-infrastructure-focus.png" alt="Security Focused Infrastructure Engineer" width="100%" />
+</div>
 
-# 🧭 Horizontal Foundation (What I Explored)
+---
 
-During my exploration phase, I built across multiple domains to understand complete system flow:
+# 🧭 Horizontal Foundation (Exploration Phase)
+
+During my technical exploration phase, I worked across multiple layers to understand complete system flow:
 
 ```text
 Full-Stack Development (React, Node.js, Flask)
@@ -41,13 +47,13 @@ Data Structures & Algorithms (100+ LeetCode)
 Open Source Contributions
 ```
 
-This gave me system-wide visibility — frontend to infrastructure.
+This phase built architectural awareness across the stack.
 
 ---
 
-# 🎯 Vertical Specialization (What I Am Mastering)
+# 🎯 Vertical Specialization (Commitment Phase)
 
-Now I am committing to deep specialization in:
+Now I am focusing on deep mastery in:
 
 ```text
 Advanced Networking (TCP/IP, Subnetting, Routing)
@@ -59,63 +65,36 @@ Threat Modeling & Secure Infrastructure
 Offensive + Defensive Security Methodologies
 ```
 
-From breadth → to depth.
+From breadth → to depth.  
+From development → to infrastructure security engineering.
 
 ---
 
-# 🛡️ 2026 Security Engineering Roadmap
-
-```javascript
-const securityEngineer = {
-    networking: [
-        "Deep TCP/IP stack mastery",
-        "Routing & switching internals",
-        "Packet inspection & traffic analysis",
-        "Subnetting expertise"
-    ],
-    offensiveSecurity: [
-        "Web exploitation techniques",
-        "Network enumeration",
-        "Active Directory fundamentals",
-        "Custom security tooling in Python"
-    ],
-    defensiveArchitecture: [
-        "Firewall rule engineering",
-        "IDS/IPS concepts",
-        "Zero Trust architecture",
-        "Secure infrastructure design"
-    ]
-};
-```
-
----
-
-# 🛠 Core Technical Stack
+# 🛠 Core Stack
 
 ### Languages
-- Python
-- C / C++
-- JavaScript
-- Dart
+- Python  
+- C / C++  
+- JavaScript  
+- Dart  
 
-### Systems & Tools
-- Linux
-- Git
-- Docker
-- Wireshark
-- Postman
-- Arduino
+### Systems & Security Tools
+- Linux  
+- Git  
+- Docker  
+- Wireshark  
+- Postman  
+- Arduino  
 
-### Development (Support Skills)
-- React
-- Node.js / Express
-- Flask
-- Flutter
+### Development (Support Layer)
+- React  
+- Node.js / Express  
+- Flask  
+- Flutter  
 
 ---
 
-
-# 🌐 Connect With Me
+# 🌐 Connect
 
 <div align="center">
 
