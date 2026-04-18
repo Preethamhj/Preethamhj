@@ -1,120 +1,86 @@
-<div align="center">
-<img width="1024" height="957" alt="image" src="https://github.com/user-attachments/assets/0e8f57c0-ddf7-4ac5-b8b7-f707950aeebb" />
-
-# 👋 Hi, I'm Preetham HJ
-
+# 👋 Hi, I'm Preetham HJ  
 ### Security-Focused Infrastructure Engineer (in progress)
 
-Breaking systems • Securing architectures • Designing network-level infrastructure
+---
 
-</div>
+## 🧠 Profile
+
+Computer Science student transitioning from full-stack development  
+→ Deep focus on **Network Security & Infrastructure Engineering**
+
+- Packet-level understanding of systems  
+- Offensive + Defensive security mindset  
+- Architecture-first approach to security  
 
 ---
 
-## 🧠 About Me
+## 🎯 Current Focus
 
-I am a Computer Science student transitioning from broad full-stack development into deep **Network & Security Engineering**.
-
-My focus is moving from building applications to understanding:
-
-- How packets move across networks  
-- How systems break under attack  
-- How infrastructure must be architected securely  
-- How offensive knowledge strengthens defensive design  
-
-I believe security is not a feature — it is architecture.
+- Advanced Networking (TCP/IP, Subnetting, Routing)
+- Packet Analysis (Wireshark)
+- Linux Internals & System Hardening
+- Web Security & Exploitation
+- Firewall Design & Network Segmentation
 
 ---
 
-# 🛡️ Core Direction
+## 🧪 Projects & Labs
 
-<div align="center">
-  <img src="./security-infrastructure-focus.png" alt="Security Focused Infrastructure Engineer" width="100%" />
-</div>
-
----
-
-# 🧭 Horizontal Foundation (Exploration Phase)
-
-During my technical exploration phase, I worked across multiple layers to understand complete system flow:
-
-```text
-Full-Stack Development (React, Node.js, Flask)
-Mobile Development (Flutter)
-Database Systems (MongoDB, MySQL, Firebase)
-Blockchain-Based System Design
-IoT & Arduino Prototyping
-Data Structures & Algorithms (100+ LeetCode)
-Open Source Contributions
-```
-
-This phase built architectural awareness across the stack.
+- Network Traffic Analyzer (Python)
+- Brute Force Detection System
+- ML-Based Threat Detection
+- Web Security Testing Lab
+- Firewall Simulation & Secure Network Design
 
 ---
 
-# 🎯 Vertical Specialization (Commitment Phase)
+## 💻 Tech Stack
 
-Now I am focusing on deep mastery in:
+**Languages:**  
+Python • C/C++ • JavaScript • Dart  
 
-```text
-Advanced Networking (TCP/IP, Subnetting, Routing)
-Packet-Level Traffic Analysis
-Linux Internals & System Hardening
-Web Application Exploitation
-Network Segmentation & Firewall Design
-Threat Modeling & Secure Infrastructure
-Offensive + Defensive Security Methodologies
-```
+**Systems & Security:**  
+Linux • Wireshark • Docker • Git • Postman  
 
-From breadth → to depth.  
-From development → to infrastructure security engineering.
+**Development (Support):**  
+Flask • Node.js • React • Flutter  
 
 ---
 
-# 🛠 Core Stack
+## 📊 GitHub Stats
 
-### Languages
-- Python  
-- C / C++  
-- JavaScript  
-- Dart  
-
-### Systems & Security Tools
-- Linux  
-- Git  
-- Docker  
-- Wireshark  
-- Postman  
-- Arduino  
-
-### Development (Support Layer)
-- React  
-- Node.js / Express  
-- Flask  
-- Flutter  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Preethamhj&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preethamhj&layout=compact&theme=default" height="160"/>
+</p>
 
 ---
 
-# 🌐 Connect
+## 🔥 Activity Graph
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Preethamhj&theme=github" />
+</p>
 
-[LinkedIn](https://linkedin.com/in/preetham-hj-ab2348295) • 
-[LeetCode](https://leetcode.com/u/preetham_1hj/) • 
-[HackerRank](https://www.hackerrank.com/profile/hjpreetham1)
+---
 
-</div>
+## 🧠 Problem Solving
+
+- Solved **500+ problems** on LeetCode  
+- Strong foundation in Data Structures & Algorithms  
+- Focus on optimization, patterns, and problem-solving depth  
+
+LeetCode: https://leetcode.com/u/preetham_1hj/  
+HackerRank: https://www.hackerrank.com/profile/hjpreetham1  
+
+---
+
+## 🌐 Connect
+
+LinkedIn: https://linkedin.com/in/preetham-hj-ab2348295  
 
 ---
 
 ## 🔐 Philosophy
 
-> “Understand the packet. Understand the system. Secure the architecture.”
-
----
-
-<div align="center">
-
-### Building depth. Not noise.
-
-</div>
+Security is not a feature — it is architecture.
